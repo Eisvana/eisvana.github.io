@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "prettier": "^3.4.2",
-    "sass": "^1.83.4",
+    "sass": "^1.84.0",
     "vue-tsc": "^2.2.0"
   }
 }
