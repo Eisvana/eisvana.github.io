@@ -8,7 +8,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "@picocss/pico": "^2.0.6",
+    "@picocss/pico": "^2.1.1",
     "md-editor-v3": "^4.21.3",
     "simple-image-compressor": "^1.8.2",
     "vitepress": "^1.3.4"
