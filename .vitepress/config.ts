@@ -19,7 +19,7 @@ export default defineConfig({
     },
   },
   sitemap: {
-    hostname: 'https://eisvana.com',
+    hostname: 'https://galacticfleet.com',
   },
   lastUpdated: true,
   themeConfig: {
