@@ -1,5 +1,5 @@
 {
-  "name": "eisvana-website",
+  "name": "galactic fleet-website",
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",
