@@ -14,7 +14,7 @@
     "vitepress": "^1.3.4"
   },
   "devDependencies": {
-    "prettier": "^3.8.4",
+    "prettier": "^3.9.1",
     "sass": "^1.101.0",
     "vue-tsc": "^3.3.5"
   }
